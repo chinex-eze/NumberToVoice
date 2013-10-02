@@ -1,0 +1,1 @@
+g++ -o test.exe NumToVoice.cpp NumToVoice.h NumberToText.cpp NumberToText.h -lmingw32 -lSDLmain -lSDL -lSDL_mixer 
